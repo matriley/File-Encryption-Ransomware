@@ -2,7 +2,7 @@
 Encrypt test files along with a decryption tool.
 
 
-To run:
+## To Run:
 
 1. Run terminal as Root User
 2. cd ransomware/
@@ -10,10 +10,10 @@ To run:
 4. Decrypt files (Password: unlock): python3 decrypt.py
 
 
-Should you need to update the python script:
+## Updating Python Script:
 
 1. Run terminal as Root User
 2. cd ransomware/
 3. Encrypt file: nano voldemort.py
 4. Decrypt file: nano decrypt.py
-5. To save, ctrl X, y, enter
+5. To save, ctrl x, y, enter
