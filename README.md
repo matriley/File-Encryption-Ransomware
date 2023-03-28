@@ -9,6 +9,10 @@ We assume no liability for any consequences that may arise from the actions of e
 
 By downloading and using this educational malware, you acknowledge that you have read and understood the potential risks associated with malware and that you assume all responsibility for any actions you take with the software. We do not accept any liability for any harm or damage caused by the download or installation of this educational malware or any other software or program provided by us or any third-party provider.
 
+## To Install
+```
+$ git clone https://github.com/matriley/File-Encryption-Ransomware.git
+```
 
 ## To Run
 
