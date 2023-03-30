@@ -18,7 +18,7 @@ $ git clone https://github.com/matriley/File-Encryption-Ransomware.git
 
 1. Run terminal as Root User
 2. cd ransomware/
-3. Encrypt files: python3 voldemort.py 
+3. Encrypt files: python3 ransomware.py 
 4. Decrypt files (Password: unlock): python3 decrypt.py
 
 
@@ -26,6 +26,6 @@ $ git clone https://github.com/matriley/File-Encryption-Ransomware.git
 
 1. Run terminal as Root User
 2. cd ransomware/
-3. Encrypt file: nano voldemort.py
+3. Encrypt file: nano ransomware.py
 4. Decrypt file: nano decrypt.py
 5. To save, ctrl x, y, enter
