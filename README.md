@@ -15,12 +15,17 @@ $ git clone https://github.com/matriley/File-Encryption-Ransomware.git
 ```
 
 ## To Run
+```
+$ sudo -i
+# cd ransomware/
+# python3 ransomware.py
+```
 
-1. Run terminal as Root User
-2. cd ransomware/
-3. Encrypt files: python3 ransomware.py 
-4. Decrypt files (Password: unlock): python3 decrypt.py
-
+## To Decrypt
+```
+# python3 decrypt.py
+# unlock
+```
 
 ## Updating Python Script
 
