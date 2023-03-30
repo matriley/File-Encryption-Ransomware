@@ -16,21 +16,12 @@ $ git clone https://github.com/matriley/File-Encryption-Ransomware.git
 
 ## To Run
 ```
-$ sudo -i
-# cd ransomware/
-# python3 ransomware.py
+$ cd File-Encryption-Ransomware/
+$ python3 ransomware.py
 ```
 
 ## To Decrypt
 ```
-# python3 decrypt.py
-# unlock
+$ python3 decrypt.py
+$ unlock
 ```
-
-## Updating Python Script
-
-1. Run terminal as Root User
-2. cd ransomware/
-3. Encrypt file: nano ransomware.py
-4. Decrypt file: nano decrypt.py
-5. To save, ctrl x, y, enter
