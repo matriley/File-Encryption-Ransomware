@@ -1,5 +1,5 @@
 # File-Encryption-Ransomware
-Encrypt test files along with a decryption tool.
+This code is an implementation of a basic ransomware script that encrypts all files in a directory, except for certain files such as the ransomware script, the key file, the decrypt script, and the README file, and requires a decryption key to reverse the encryption.
 
 ## Disclaimer
 
